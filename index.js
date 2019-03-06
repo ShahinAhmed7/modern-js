@@ -38,3 +38,22 @@
 // } else{
 //     console.log("Not true");
 // }
+
+
+var a = "v";
+
+if(a==""){
+    console.log('a was not providing');
+} else{
+    console.log('Hello', a);
+}
+
+
+
+
+
+
+
+
+
+
