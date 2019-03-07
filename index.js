@@ -40,13 +40,48 @@
 // }
 
 
-var a = "v";
+// var a = "v";
 
-if(a==""){
-    console.log('a was not providing');
-} else{
-    console.log('Hello', a);
+// if(a==""){
+//     console.log('a was not providing');
+// } else{
+//     console.log('Hello', a);
+// }
+
+
+
+// function
+
+// function average(num1,num2){
+//     var answer = (num1+num2)-10;
+//     return answer;  
+// }
+// console.log(average(4,10));
+
+
+// function hello(){
+//     console.log("Hello world");
+// }
+// hello();
+
+var add = function(a,b){
+    return a+b;
 }
+
+console.log(add(40,30));
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
