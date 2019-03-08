@@ -96,6 +96,3 @@ console.log(add(40,30));
 
 
 
-
-
-
