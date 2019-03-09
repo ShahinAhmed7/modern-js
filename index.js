@@ -64,11 +64,33 @@
 // }
 // hello();
 
-var add = function(a,b){
-    return a+b;
-}
+// var add = function(a,b){
+//     return a+b;
+// }
 
-console.log(add(40,30));
+// console.log(add(40,30));
+
+
+// hayer order function
+
+// function generate(type) {
+//     if(type==="plus"){
+//         return(a,b)=>a+b;
+//     }
+//     else if(type==="minus"){
+//         return(a,b)=>a-b;
+//     }
+//     else if(type==="multiple"){
+//         return(a,b)=>a*b;
+//     }
+// }
+
+// var x = generate("minus");
+// console.log(x(4,9));
+
+
+
+
 
 
 
